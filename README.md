@@ -29,7 +29,7 @@ TX - GPIO1:     *** pin is high at BOOT,
 ```
 (info from https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/)
 
-
+![pcb-layout-v1.png](pcb-layout-v1.png)
 
 I don't want collissions, so I'll use D1, D2, D5 & D6.
 
